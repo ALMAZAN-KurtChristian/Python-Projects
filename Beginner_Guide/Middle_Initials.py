@@ -1,0 +1,13 @@
+print ("D D D DD")
+print ("D       D")
+print ("D       D")
+print ("D       D")
+print ("D       D")
+print ("D       D")
+print ("D       D")
+print ("D       D")
+print ("D       D")
+print ("D       D")
+print ("D       D")
+print ("D D D DD")
+
