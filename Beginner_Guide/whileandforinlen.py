@@ -9,4 +9,4 @@ def Character_printing(name):
         print(name[i])
         i +=1
 
-Character_printing("Kurt")
+Character_printing("Kurt")sads
